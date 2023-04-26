@@ -1,0 +1,1 @@
+Los conceptos tanto de .css como de estructura estan aplicados en mayor porcentaje en la seccion del sitio "Jugadores", al igual que en el archivo .css dedicado a esa misma seccion.
